@@ -1,0 +1,19 @@
+.kiv {
+    background-color: antiquewhite;
+}
+
+#elsocsapat {
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+#feladat_1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    flex: 0 0 100%;
+}
